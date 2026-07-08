@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Snehul 👋</h1>
-<h3 align="center">Full Stack Developer 💻 | React.js | C# & ASP.NET Core</h3>
+<h3 align="center"> Full Stack Developer 💻 | C# & ASP.NET Core | React.js</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%40+Bridgeon+Solutions;React.js+%7C+Redux+Toolkit+%7C+TanStack+Query;C%23+%7C+ASP.NET+Core+%7C+SQL+Server+%7C+ADO.NET;Building+clean%2C+scalable+full-stack+apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Backend+Developer+%40+Bridgeon+Solutions;C%23+%7C+ASP.NET+Core+%7C+SQL+Server+%7C+ADO.NET;Building+robust%2C+scalable+APIs;Frontend+with+React.js+%2F+Next.js" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,31 +16,17 @@
 
 ### 👨‍💻 About Me
 
-- 🚀 Full Stack Developer with hands-on experience building responsive, user-friendly web apps with **React.js**
-- 🛠️ Skilled in JavaScript, Tailwind CSS, Redux Toolkit, and TanStack Query for state management and data fetching
-- 🏢 Currently **Frontend Developer** at **Bridgeon Solutions LLP**, Calicut
-- 🧰 Also skilled in **C#, ASP.NET Core, SQL Server, and ADO.NET**, growing into full-stack development
-- 🎯 Focused on clean, scalable UIs, reusable components, and modern web development practices
+- 🚀 Full Stack Developer focused on **backend engineering** with **C#, ASP.NET Core, SQL Server, and ADO.NET**
+- 🛠️ Skilled in building robust, scalable APIs and working with relational data using SQL Server and ADO.NET
+- 🎨 Also comfortable across the stack with **React.js, Next.js, TypeScript**, Redux Toolkit, and TanStack Query
+- 🏢 Currently **Full Stack Developer** at **Bridgeon Solutions LLP**, Calicut
+- 🎯 Focused on clean architecture, maintainable backend code, and reliable API design
 - 📍 Based in Calicut, Kerala — **immediately available to join**
 - 📫 Reach me at: **snehul81vv@gmail.com**
 
 ---
 
 ### 🛠️ Technologies & Tools
-
-**Frontend**
-
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white">
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
-</p>
 
 **Backend**
 
@@ -49,6 +35,20 @@
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white">
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white">
   <img src="https://img.shields.io/badge/ADO.NET-0078D4?style=flat-square">
+  <img src="https://img.shields.io/badge/REST_API-25D366?style=flat-square">
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white">
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
 </p>
 
 **Tools**
@@ -66,7 +66,7 @@
 
 | Role | Company | Duration | Location |
 |---|---|---|---|
-| Frontend Developer | Bridgeon Solutions LLP | Jan 2026 – Present | Calicut, Kerala |
+| Full Stack Developer | Bridgeon Solutions LLP | Jan 2026 – Present | Calicut, Kerala |
 
 ---
 
@@ -103,6 +103,8 @@
 | **[Auxom – E-Commerce Platform](https://github.com/snehul-dev/auxom)** | Scalable e-commerce app for a men's clothing brand — products, cart, wishlist, orders, ratings & reviews, Razorpay payments, admin dashboard | React.js, Tailwind CSS, Redux Toolkit, TanStack Query, RESTful APIs |
 | **[Notes App](https://github.com/snehul-dev/notes-app)** | Personal note management app with add/edit/delete, dynamic UI updates, and responsive layouts | React.js, Tailwind CSS, JSON Server |
 
+> Add a backend/full-stack project here (e.g. an ASP.NET Core Web API + SQL Server project) once you have one on GitHub — it'll reinforce the backend focus above.
+
 ---
 
 ### 🌐 Let's Connect
@@ -113,7 +115,7 @@
   <a href="https://leetcode.com/u/snehul_vv/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
 </p>
 
-<p align="center"><i>"Building clean, scalable interfaces — end to end." 💻</i></p>
+<p align="center"><i>"Building robust backends, powered by clean architecture." 💻</i></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=snehul-dev&label=Profile%20Views&color=2F80ED&style=flat" alt="Profile Views"/>
