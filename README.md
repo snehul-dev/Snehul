@@ -64,29 +64,10 @@
 
 ---
 
-### 🎓 Education
-
-- **BSc Catering and Hotel Administration** — Alagappa University (2020 – 2023)
-- **Higher Secondary Education** — GHSS Kallachi (2018 – 2020)
 
 **Languages:** Malayalam, English, Hindi, Tamil
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snehul-dev&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snehul-dev&theme=default" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehul-dev&layout=compact&theme=default" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/snehul_vv?theme=light&font=Baloo%202&ext=heatmap" alt="LeetCode Stats"/>
-</p>
 
 ---
 
