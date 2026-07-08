@@ -104,11 +104,6 @@
 
 ---
 
-### 🎓 Education
-
-- **BSc Catering and Hotel Administration** — Alagappa University (2020 – 2023)
-- **Higher Secondary Education** — GHSS Kallachi (2018 – 2020)
-
 **Languages:** Malayalam, English, Hindi, Tamil
 
 ---
