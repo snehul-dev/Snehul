@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-- 🚀 Front-End Developer with hands-on experience building responsive, user-friendly web apps with **React.js**
+- 🚀 Full Stack Developer with hands-on experience building responsive, user-friendly web apps with **React.js**
 - 🛠️ Skilled in JavaScript, Tailwind CSS, Redux Toolkit, and TanStack Query for state management and data fetching
 - 🏢 Currently **Frontend Developer** at **Bridgeon Solutions LLP**, Calicut
 - 🧰 Also skilled in **C#, ASP.NET Core, SQL Server, and ADO.NET**, growing into full-stack development
